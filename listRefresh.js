@@ -1,4 +1,4 @@
-console.error("Start");
+console.info("Start");
 
 function timerFunc() {
   console.info("timer")

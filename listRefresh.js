@@ -13,3 +13,4 @@ function timerFunc() {
 }
 
 setInterval(timerFunc,checkInterval);
+//test
